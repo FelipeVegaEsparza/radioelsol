@@ -2,10 +2,10 @@
   "template": "minimalista",
   "project_name": "Radio Sol de Ñuble",
   "clientId": "cmkre8bh10003x1fz9lywdpxe",
-  "sonicpanel_port": "8020",
+  "sonicpanel_port": "8060",
   "ipstream_base_url": "https://dashboard.ipstream.cl/api/public",
-  "sonicpanel_stream_url": "https://stream2.ipstream.cl/8020/stream",
-  "sonicpanel_api_url": "https://stream2.ipstream.cl/cp/get_info.php?p=8020",
+  "sonicpanel_stream_url": "https://stream.ipstream.cl/8060/stream",
+  "sonicpanel_api_url": "https://stream.ipstream.cl/cp/get_info.php?p=8060",
   "cache_version": "v1",
   "offline_page": "/offline.html",
   "pagination": {
